@@ -2,8 +2,6 @@
 
 <br />
 
-<h1 align="center">Ayush Morya</h1>
-
 <h3 align="center">Working with data. Building toward intelligence.</h3>
 
 <p align="center">
