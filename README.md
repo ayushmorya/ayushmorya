@@ -16,8 +16,6 @@
 <p align="center">
   <a href="https://ayush-morya-portfolio.vercel.app/"><strong>Explore portfolio ↗</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://ayush-morya-portfolio.vercel.app/Ayush-Morya-Resume.pdf">View resume</a>
-  &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/ayush-clouddevops/">LinkedIn</a>
   &nbsp; · &nbsp;
   <a href="mailto:ayushmorya515@gmail.com">Email</a>
