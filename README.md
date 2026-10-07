@@ -10,7 +10,7 @@
 
 My work spans Transformer-based NLP research, GPT-2 fine-tuning, electricity-demand forecasting, insurance-risk data pipelines, and serverless cloud automation. I hold a Master of Computer Applications from Dehradun Institute of Technology.
 
-[Portfolio](https://ayush-morya-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ayush-clouddevops/) · [GitHub](https://github.com/ayushmorya) · [Resume](https://ayush-morya-portfolio.vercel.app/Ayush-Morya-Resume.pdf) · [Email](mailto:ayushmorya515@gmail.com)
+[Portfolio](https://ayush-morya-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ayush-clouddevops/) · [Email](mailto:ayushmorya.work@gmail.com)
 
 <br clear="right" />
 
